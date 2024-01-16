@@ -12,9 +12,6 @@ I thrive on turning ideas into interactive and engaging apps. Flutter's versatil
 Currently, I am diving deeper into state management patterns, design principles, and exploring ways to optimize app performance. Continuous learning is a core value for me, and I enjoy staying updated with the latest trends and advancements in the Flutter ecosystem.
 
 
-###
-
-<p align="left">Hello World!!</p>
 
 ###
 
