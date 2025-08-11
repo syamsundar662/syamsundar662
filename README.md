@@ -22,37 +22,25 @@ My focus is on crafting elegant solutions using **Flutter**, delivering robust a
 
 ---
 
-## 💻 Experience
+## 📂 Current Projects
 
-**Flutter Developer** — *Onwords Smart Solution* (Aug 2024 – Present)  
-- Developed **Onwords Living Home**: Smart home automation app with home sharing, scheduling, and automation features. Integrated Apple/Google Sign-In and phone authentication.  
-- Built **Onwords Smart Things**: Device control for lights, fans, ACs, and more using MQTT and WebSocket. Added Siri Shortcuts & home widgets.  
-- Maintained **MyOffice**: Role-based office management app with authentication, UI/UX enhancements, and bug fixes.
+**Onwords Living Home**  
+A smart home automation app powered by Home Assistant.  
+- Implementing features like home sharing, automation, and scheduling.  
+- Real-time device control using REST API and WebSocket.  
+- Integrated Apple Sign-In, Google Sign-In, and phone SMS verification for authentication.
 
----
+**Onwords Smart Things**  
+A smart home control application for managing lights, fans, ACs, and other devices.  
+- Real-time control via MQTT for seamless communication.  
+- UI/UX enhancements for improved user experience.  
+- Designed and deployed Android & iOS home widgets and Siri Shortcuts for gate control.  
 
-## 🚀 Projects
-
-- **Flip — Social Media App**  
-  Real-time chat, media sharing, follows, likes, and comments. Backend with Firebase, advanced BloC state management, secure authentication.
-
-- **Travisor — Travel App**  
-  Destination search, wishlist, popular places, authentication. Built with Flutter & Firebase using MVC Architecture.
-
-- **Weather App**  
-  Location-based weather forecasts via OpenWeatherMap API, GetX for state management.
-
-- **Netflix Clone**  
-  Movie browsing with TMDB API, UI replication for seamless user experience.
-
-- **F Salon CBE — AI Chatbot**  
-  Customer service chatbot with Flutter, Firebase, and WebSocket.
-
----
-
-## 🎓 Education
-- **Bachelor of Computer Application (BCA)** — RR Institutions, Bangalore (2019–2022) — CGPA: 6.6  
-- **Mobile Application Development Using Flutter** — Brototype, Ernakulam (2022–2023)
+**MyOffice**  
+An internal office management system with role-based access.  
+- Implemented secure role-based authentication.  
+- Maintained and improved features for better efficiency.  
+- Enhanced UI/UX and fixed critical bugs.
 
 ---
 
