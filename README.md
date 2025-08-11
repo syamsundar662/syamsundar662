@@ -5,13 +5,6 @@ My focus is on crafting elegant solutions using **Flutter**, delivering robust a
 
 ---
 
-## 💼 Profile Summary
-- Highly motivated and detail-oriented Flutter developer with experience in **real-time device control**, **state management**, and **app optimization**.
-- Skilled at transforming concepts into fully functional, production-ready applications.
-- Committed to continuous learning and staying updated with modern development practices.
-
----
-
 ## 🛠 Technical Skills
 **Languages:** Dart (Proficient), HTML, CSS, Java, C (Familiar)  
 **Frameworks:** Flutter  
@@ -30,17 +23,6 @@ A smart home automation app powered by Home Assistant.
 - Real-time device control using REST API and WebSocket.  
 - Integrated Apple Sign-In, Google Sign-In, and phone SMS verification for authentication.
 
-**Onwords Smart Things**  
-A smart home control application for managing lights, fans, ACs, and other devices.  
-- Real-time control via MQTT for seamless communication.  
-- UI/UX enhancements for improved user experience.  
-- Designed and deployed Android & iOS home widgets and Siri Shortcuts for gate control.  
-
-**MyOffice**  
-An internal office management system with role-based access.  
-- Implemented secure role-based authentication.  
-- Maintained and improved features for better efficiency.  
-- Enhanced UI/UX and fixed critical bugs.
 
 ---
 
