@@ -1,35 +1,27 @@
 # 👋 Hey there, I’m Syam Sundar
 
-🚀 **Flutter Developer** | Passionate about crafting elegant, efficient, and cross-platform mobile apps.  
-I love turning ideas into smooth, interactive experiences that run on **mobile, web, and desktop** from a single codebase.
+I’m a **Flutter Developer** passionate about crafting elegant, efficient, and high-performance applications.  
+With Flutter’s versatility, I build **natively compiled apps** for mobile, web, and desktop — all from a single codebase.
 
 ---
 
 ## 💡 About Me
-- 🎯 Currently exploring **state management patterns**, **design principles**, and **app performance optimization**.
-- 📚 Lifelong learner — always keeping up with **Flutter’s latest features** and best practices.
-- 🛠️ Skilled at building **responsive UI** and integrating **powerful APIs**.
-- 🤝 Open to collaborations, discussions, and community contributions.
+- 🎯 Focused on **state management**, **design principles**, and **performance optimization**.
+- 📚 Committed to continuous learning and staying updated with **Flutter’s evolving ecosystem**.
+- 🛠️ Experienced in building **responsive UIs** and integrating **API-driven features**.
+- 🤝 Open to collaborations and knowledge-sharing within the developer community.
 
 ---
 
-## ❤️ What I Love
-- Creating **beautiful & responsive UIs**.
-- Writing **clean, maintainable code**.
-- Experimenting with **new packages & widgets**.
-- Delivering **seamless user experiences**.
+## ❤️ What I Do
+- Create **clean, maintainable, and scalable code**.
+- Design **user-friendly interfaces** with smooth interactions.
+- Explore **new tools, packages, and frameworks** to improve development workflows.
+- Deliver **quality-driven solutions** that meet business goals.
 
 ---
 
-## 📊 My Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syamsundar662&show_icons=true&theme=dracula&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syamsundar662&layout=compact&theme=dracula" height="160" />
-</div>
-
----
-
-## 🌐 Connect With Me
+## 🌐 Let’s Connect
 <div align="left">
   <a href="https://www.linkedin.com/in/syam-sundar-89bb60256/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" />
@@ -40,10 +32,4 @@ I love turning ideas into smooth, interactive experiences that run on **mobile, 
   <a href="mailto:your.email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=syamsundar662" />
 </div>
